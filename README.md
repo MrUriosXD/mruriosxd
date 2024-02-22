@@ -1,4 +1,5 @@
 ### Hola mi nombre es Jorge Urios, aunque todos me conocen como mruriosxd en internet 👋
+<img src="https://github.com/jstrieb/github-stats/blob/master/generated/languages.svg#gh-light-mode-only" />
 
 <!--
 **MrUriosXD/mruriosxd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
