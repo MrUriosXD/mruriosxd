@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hola mi nombre es Jorge Urios, aunque todos me conocen como mruriosxd en internet 👋
 
 <!--
 **MrUriosXD/mruriosxd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
