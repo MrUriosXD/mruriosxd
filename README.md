@@ -1,4 +1,4 @@
-### Hola mi nombre es Jorge Urios, aunque todos me conocen como mruriosxd en internet 👋
+### Hola me conocen como mruriosxd en internet 👋
 <img src="https://github.com/jstrieb/github-stats/blob/master/generated/languages.svg#gh-light-mode-only" />
 
 <!--
