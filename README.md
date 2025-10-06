@@ -78,7 +78,7 @@ Siempre abierto a sugerencias, feedback y colaboraciones. Si tienes una idea, un
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/tuusuario)
 - 🌐 [Portafolio](http://mruriosxd.github.io)
-- 📧 Email: tuemail@ejemplo.com
+- 📧 Email: mruriosxd@gmail.com
 
 ---
 
