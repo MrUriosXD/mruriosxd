@@ -55,7 +55,7 @@ _Plantilla para políticas de privacidad de apps, fácil de adaptar y desplegar 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MrUriosXD&show_icons=true&theme=github_dark" alt="GitHub Stats" height="180em"/>
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&hide=javascript,css,scss,html&theme=tokyonight)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrUriosXD&layout=compact&theme=github_dark" alt="Top Languages" height="180em"/>
 </p>
 
 ---
