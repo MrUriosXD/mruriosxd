@@ -54,8 +54,8 @@ _Plantilla para políticas de privacidad de apps, fácil de adaptar y desplegar 
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MrUriosXD&show_icons=true&theme=github_dark" alt="GitHub Stats" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrUriosXD&layout=compact&theme=github_dark" alt="Top Languages" height="180em"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MrUriosXD&show_icons=true&theme=github_dark" alt="GitHub Stats" height="180em"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MrUriosXD&layout=compact&theme=github_dark" height="180em"/>
 </p>
 
 ---
