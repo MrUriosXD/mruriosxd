@@ -34,42 +34,48 @@ Mi enfoque combina tres cosas: **construir**, **mejorar sistemas existentes** y 
 
 # 🚀 Proyectos seleccionados
 
+<p align="center">
+  <strong>Una selección de proyectos que representan mi trabajo técnico y la dirección de desarrollo que estoy construyendo.</strong>
+</p>
+
 <table>
 <tr>
 <td width="50%" valign="top">
 
-## 🧩 ProPortal-MyBB
-
+### 🧩 ProPortal-MyBB
 **Portal modular para MyBB**
 
-Una evolución de ProPortal adaptada al ecosistema moderno de **MyBB 1.8.x**, con especial atención a la administración y configuración del sistema.
+Evolución y modernización de ProPortal para el ecosistema actual de **MyBB 1.8.x**.
 
-**Destaca por**
+<div>
+<strong>▸ Componentes</strong><br>
+<sub>Portal · Bloques · Permisos · Instalador · Administración</sub>
+</div>
 
-`Bloques` · `Permisos` · `Instalador` · `Configuración` · `Administración`
+<br>
 
-**Stack**  
-`PHP` `MySQL` `MyBB` `HTML` `CSS`
+`PHP` `MySQL` `MyBB`
 
-<a href="https://github.com/MrUriosXD/ProPortal-MyBB"><strong>Explorar repositorio →</strong></a>
+<p><a href="https://github.com/MrUriosXD/ProPortal-MyBB"><strong>Ver proyecto →</strong></a></p>
 
 </td>
 <td width="50%" valign="top">
 
-## 🏢 Enterprise Development Studio
+### 🏢 Enterprise Development Studio
+**Entorno de desarrollo empresarial**
 
-**Entorno web para desarrollo empresarial**
+Proyecto orientado a reunir y presentar soluciones y herramientas dentro de una experiencia web estructurada.
 
-Proyecto centrado en presentar y organizar herramientas y soluciones de desarrollo dentro de una experiencia web estructurada.
+<div>
+<strong>▸ Conceptos</strong><br>
+<sub>Interfaz · Organización · Herramientas · Modularidad</sub>
+</div>
 
-**Enfoque**
+<br>
 
-`Interfaz` · `Organización` · `Herramientas` · `Modularidad`
-
-**Stack**  
 `HTML` `CSS` `JavaScript`
 
-<a href="https://github.com/MrUriosXD/Enterprise-Development-Studio"><strong>Explorar repositorio →</strong></a>
+<p><a href="https://github.com/MrUriosXD/Enterprise-Development-Studio"><strong>Ver proyecto →</strong></a></p>
 
 </td>
 </tr>
@@ -79,30 +85,40 @@ Proyecto centrado en presentar y organizar herramientas y soluciones de desarrol
 <tr>
 <td width="50%" valign="top">
 
-## 🌐 MyBB Language Translator
+### 🌐 MyBB Language Translator
+**Gestión de idiomas para MyBB**
 
-**Gestión de traducciones para MyBB**
+Herramienta para simplificar el trabajo con archivos de idioma y procesos de traducción dentro de MyBB.
 
-Herramienta creada para trabajar de forma más cómoda con los recursos de idioma de MyBB y simplificar tareas habituales de traducción.
+<div>
+<strong>▸ Orientado a</strong><br>
+<sub>Traducción · Gestión · Recursos de idioma</sub>
+</div>
 
-**Stack**  
+<br>
+
 `PHP` `MyBB` `HTML` `CSS`
 
-<a href="https://github.com/MrUriosXD/MyBB-Language-Translator"><strong>Explorar repositorio →</strong></a>
+<p><a href="https://github.com/MrUriosXD/MyBB-Language-Translator"><strong>Ver proyecto →</strong></a></p>
 
 </td>
 <td width="50%" valign="top">
 
-## 🌐 WP Translator Suite
-
+### 🌐 WP Translator Suite
 **Herramientas de traducción para WordPress**
 
-Proyecto enfocado en facilitar la gestión y traducción de recursos relacionados con WordPress mediante herramientas web.
+Suite orientada a facilitar la gestión y traducción de recursos relacionados con WordPress.
 
-**Stack**  
+<div>
+<strong>▸ Orientado a</strong><br>
+<sub>Traducción · Gestión · Herramientas web</sub>
+</div>
+
+<br>
+
 `PHP` `HTML` `CSS` `JavaScript`
 
-<a href="https://github.com/MrUriosXD/WP-Translator-Suite"><strong>Explorar repositorio →</strong></a>
+<p><a href="https://github.com/MrUriosXD/WP-Translator-Suite"><strong>Ver proyecto →</strong></a></p>
 
 </td>
 </tr>
@@ -110,7 +126,7 @@ Proyecto enfocado en facilitar la gestión y traducción de recursos relacionado
 
 <div align="center">
 
-<a href="https://github.com/MrUriosXD?tab=repositories"><strong>Ver todos los repositorios →</strong></a>
+**[Explorar todos los repositorios →](https://github.com/MrUriosXD?tab=repositories)**
 
 </div>
 
