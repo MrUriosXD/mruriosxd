@@ -1,265 +1,185 @@
 <div align="center">
 
-# 👋 Hola, soy **MrUriosXD**
+# 👋 **MrUriosXD**
 
-### 💻 Desarrollador independiente · PHP · MyBB · Web · Sistemas modulares
+### Desarrollo web · PHP · MyBB · Sistemas modulares
 
 <p>
-  <a href="https://github.com/MrUriosXD"><img src="https://img.shields.io/badge/GitHub-MrUriosXD-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
-  <a href="https://mruriosxd.github.io"><img src="https://img.shields.io/badge/Web-mruriosxd.github.io-0A66C2?style=for-the-badge&logo=githubpages&logoColor=white" alt="Web"></a>
-  <a href="mailto:mruriosxd@gmail.com"><img src="https://img.shields.io/badge/Email-Contacto-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://github.com/MrUriosXD"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="https://mruriosxd.github.io"><img src="https://img.shields.io/badge/Web-0A66C2?style=for-the-badge&logo=githubpages&logoColor=white" alt="Web"></a>
+<a href="mailto:mruriosxd@gmail.com"><img src="https://img.shields.io/badge/Contacto-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Contacto"></a>
 </p>
 
-> **Construyo software propio, herramientas y extensiones con foco en estructura, mantenibilidad y evolución a largo plazo.**
+**Desarrollo proyectos propios, herramientas y extensiones con una prioridad clara: que el código pueda evolucionar sin convertirse en un problema.**
 
 </div>
 
 ---
 
-## 🧭 Perfil
+## 👨‍💻 Perfil
+
+Trabajo principalmente en **desarrollo web y software**, con especial atención a PHP, MyBB y sistemas que necesitan algo más que una interfaz: instalación, configuración, administración, permisos, estructura y mantenimiento.
+
+Mi enfoque combina tres cosas: **construir**, **mejorar sistemas existentes** y **crear herramientas que resuelvan problemas concretos**.
+
+| | Enfoque |
+|---|---|
+| 🧩 **Plataformas** | MyBB, WordPress y sistemas propios |
+| 🌐 **Web** | PHP, HTML, CSS, JavaScript, MySQL |
+| 🏗️ **Arquitectura** | CMS, módulos, paneles y sistemas escalables |
+| ⚙️ **Herramientas** | Utilidades, traductores y automatización |
+| 📚 **Mantenimiento** | Documentación, organización y evolución del código |
+
+---
+
+# 🚀 Proyectos seleccionados
 
 <table>
 <tr>
-<td width="65%" valign="top">
+<td width="50%" valign="top">
 
-### 🧑‍💻 Sobre mí
+## 🧩 ProPortal-MyBB
 
-Mi trabajo se centra principalmente en el **desarrollo web y de software**, combinando proyectos propios, herramientas para desarrolladores y extensiones para plataformas existentes.
+**Portal modular para MyBB**
 
-No me limito a crear páginas: me interesa especialmente construir **sistemas completos**, con una arquitectura clara, administración, instalación, configuración, documentación y posibilidades de crecimiento.
+Una evolución de ProPortal adaptada al ecosistema moderno de **MyBB 1.8.x**, con especial atención a la administración y configuración del sistema.
 
-- 🔧 Desarrollo aplicaciones, herramientas y extensiones propias.
-- 🌐 Trabajo principalmente con **PHP, HTML, CSS y JavaScript**.
-- 🧩 Desarrollo y personalizo extensiones para **MyBB**.
-- 🏗️ Interés especial por **CMS, sistemas administrativos y arquitecturas modulares**.
-- 📱 Experiencia previa con **Java y Android**.
-- 📚 Creo documentación y recursos técnicos para facilitar el desarrollo.
-- 🔐 Priorizo código organizado, mantenible y orientado a buenas prácticas.
+**Destaca por**
+
+`Bloques` · `Permisos` · `Instalador` · `Configuración` · `Administración`
+
+**Stack**  
+`PHP` `MySQL` `MyBB` `HTML` `CSS`
+
+<a href="https://github.com/MrUriosXD/ProPortal-MyBB"><strong>Explorar repositorio →</strong></a>
 
 </td>
-<td width="35%" valign="top">
+<td width="50%" valign="top">
 
-### 🎯 Enfoque actual
+## 🏢 Enterprise Development Studio
 
-**Desarrollo web**  
-PHP · HTML · CSS · JavaScript
+**Entorno web para desarrollo empresarial**
 
-**Sistemas**  
-CMS · Paneles · Arquitecturas modulares
+Proyecto centrado en presentar y organizar herramientas y soluciones de desarrollo dentro de una experiencia web estructurada.
 
-**MyBB**  
-Extensiones · Plugins · Administración
+**Enfoque**
 
-**Herramientas**  
-Traductores · Utilidades · Automatización
+`Interfaz` · `Organización` · `Herramientas` · `Modularidad`
 
-**Calidad**  
-Seguridad · Mantenibilidad · Documentación
+**Stack**  
+`HTML` `CSS` `JavaScript`
+
+<a href="https://github.com/MrUriosXD/Enterprise-Development-Studio"><strong>Explorar repositorio →</strong></a>
 
 </td>
 </tr>
 </table>
 
----
-
-## 🚀 Proyectos destacados
-
-> Una selección de los proyectos que representan mejor las áreas en las que trabajo actualmente.
-
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🧩 ProPortal-MyBB
+## 🌐 MyBB Language Translator
 
-**Extensión y portal para MyBB**
+**Gestión de traducciones para MyBB**
 
-Proyecto basado en ProPortal y modernizado para versiones actuales de MyBB.
+Herramienta creada para trabajar de forma más cómoda con los recursos de idioma de MyBB y simplificar tareas habituales de traducción.
 
-**Incluye**
-
-- Portal configurable
-- Sistema de bloques
-- Permisos y grupos
-- Administración
-- Instalación y configuración
-- Personalización
-
-`PHP` `MyBB` `MySQL` `HTML` `CSS`
-
-**[→ Ver proyecto](https://github.com/MrUriosXD/ProPortal-MyBB)**
-
-</td>
-<td width="50%" valign="top">
-
-### 🏢 Enterprise Development Studio
-
-**Entorno orientado al desarrollo empresarial**
-
-Proyecto enfocado en crear una experiencia web organizada para soluciones y herramientas de desarrollo.
-
-**Conceptos principales**
-
-- Organización modular
-- Interfaz web
-- Herramientas de desarrollo
-- Estructura escalable
-
-`HTML` `CSS` `JavaScript`
-
-**[→ Ver proyecto](https://github.com/MrUriosXD/Enterprise-Development-Studio)**
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🌐 MyBB Language Translator
-
-**Traducción y gestión de idiomas para MyBB**
-
-Herramienta orientada a facilitar el trabajo con archivos de idioma y la gestión de traducciones de MyBB.
-
+**Stack**  
 `PHP` `MyBB` `HTML` `CSS`
 
-**[→ Ver proyecto](https://github.com/MrUriosXD/MyBB-Language-Translator)**
+<a href="https://github.com/MrUriosXD/MyBB-Language-Translator"><strong>Explorar repositorio →</strong></a>
 
 </td>
 <td width="50%" valign="top">
 
-### 🌐 WP Translator Suite
+## 🌐 WP Translator Suite
 
 **Herramientas de traducción para WordPress**
 
-Proyecto orientado a la traducción y gestión de recursos relacionados con WordPress.
+Proyecto enfocado en facilitar la gestión y traducción de recursos relacionados con WordPress mediante herramientas web.
 
+**Stack**  
 `PHP` `HTML` `CSS` `JavaScript`
 
-**[→ Ver proyecto](https://github.com/MrUriosXD/WP-Translator-Suite)**
+<a href="https://github.com/MrUriosXD/WP-Translator-Suite"><strong>Explorar repositorio →</strong></a>
 
 </td>
 </tr>
 </table>
 
-<details>
-<summary><strong>📦 Otros proyectos</strong></summary>
+<div align="center">
 
-También mantengo otros proyectos, pruebas, recursos, backups y herramientas dentro de mi perfil de GitHub.
+<a href="https://github.com/MrUriosXD?tab=repositories"><strong>Ver todos los repositorios →</strong></a>
 
-👉 **[Explorar todos los repositorios](https://github.com/MrUriosXD?tab=repositories)**
-
-</details>
+</div>
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+## 🛠️ Stack tecnológico
 
-### 🌐 Desarrollo web
+<div align="center">
 
-<p>
+### Lenguajes y web
+
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-</p>
 
-### 🧩 Plataformas y desarrollo
+### Plataformas
 
-<p>
 <img src="https://img.shields.io/badge/MyBB-0066CC?style=for-the-badge" alt="MyBB">
 <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress">
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-</p>
 
-### 🔧 Herramientas
+### Herramientas
 
-<p>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown">
-</p>
+
+</div>
 
 ---
 
-## 🧠 Cómo trabajo
+## 🧠 Principios de desarrollo
 
 <table>
 <tr>
-<td align="center" width="25%">
-
-### 🏗️
-**Arquitectura**
-
-Estructuras claras y preparadas para crecer.
-
-</td>
-<td align="center" width="25%">
-
-### 🧩
-**Modularidad**
-
-Separación de responsabilidades y componentes reutilizables.
-
-</td>
-<td align="center" width="25%">
-
-### 🔐
-**Seguridad**
-
-Buenas prácticas desde la base del proyecto.
-
-</td>
-<td align="center" width="25%">
-
-### 📚
-**Documentación**
-
-Código y proyectos fáciles de entender y mantener.
-
-</td>
+<td align="center" width="25%"><strong>🏗️ Arquitectura</strong><br><sub>Una base ordenada antes de añadir complejidad.</sub></td>
+<td align="center" width="25%"><strong>🧩 Modularidad</strong><br><sub>Componentes separados y reutilizables.</sub></td>
+<td align="center" width="25%"><strong>🔐 Seguridad</strong><br><sub>Buenas prácticas desde el diseño.</sub></td>
+<td align="center" width="25%"><strong>📚 Claridad</strong><br><sub>Código que pueda mantenerse.</sub></td>
 </tr>
 </table>
 
 ---
 
-## 📌 Áreas de interés
+## 🎯 Áreas de trabajo
 
-<table>
-<tr>
-<td width="50%" valign="top">
+**MyBB**  
+Extensiones, plugins, administración, plantillas, idiomas y personalización.
 
-### 🧩 Desarrollo y plataformas
+**Sistemas web**  
+CMS, paneles administrativos, instaladores y estructuras modulares.
 
-- 🧩 **MyBB** — Extensiones, plugins, administración y personalización
-- 🌐 **Desarrollo web** — PHP, HTML, CSS, JavaScript y MySQL
-- 📱 **Android** — Desarrollo y mantenimiento de proyectos Java/Android
-- 🌐 **WordPress** — Herramientas y recursos de traducción
+**Herramientas**  
+Utilidades para desarrolladores, traducción, documentación y automatización.
 
-</td>
-<td width="50%" valign="top">
-
-### 🏗️ Sistemas y herramientas
-
-- 🏗️ **Arquitecturas modulares** — CMS y sistemas mantenibles
-- 📦 **CMS** — Sistemas de administración y gestión
-- ⚙️ **Herramientas** — Utilidades para desarrolladores y automatización
-- 🔐 **Seguridad** — Buenas prácticas y desarrollo responsable
-- 📚 **Documentación** — Recursos técnicos y organización de proyectos
-
-</td>
-</tr>
-</table>
+**Desarrollo multiplataforma**  
+Experiencia con proyectos web y Android/Java.
 
 ---
 
-## 📊 Actividad en GitHub
+## 📊 GitHub
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MrUriosXD&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" height="175" alt="Estadísticas de GitHub">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrUriosXD&layout=compact&theme=github_dark&hide_border=true" height="175" alt="Lenguajes más utilizados">
+<img src="https://github-readme-stats.vercel.app/api?username=MrUriosXD&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" height="170" alt="GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrUriosXD&layout=compact&theme=github_dark&hide_border=true" height="170" alt="Top Languages">
 
 <br><br>
 
@@ -271,31 +191,14 @@ Código y proyectos fáciles de entender y mantener.
 
 ## 🤝 Colaboración
 
-<table>
-<tr>
-<td width="50%" valign="top">
+¿Has encontrado un problema o tienes una mejora concreta?
 
-### 💡 Puedo trabajar en
+- 🐛 Abre un **Issue** para errores o propuestas.
+- 🔧 Envía un **Pull Request** con cambios concretos.
+- 💡 Comparte ideas relacionadas con los proyectos.
+- 📚 Ayuda a mejorar la documentación.
 
-- 🐛 Reportes y resolución de errores
-- 💡 Sugerencias y mejoras
-- 🔧 Desarrollo y mantenimiento
-- 🤝 Colaboraciones
-- 📚 Documentación técnica
-- 🚀 Nuevas ideas y herramientas
-
-</td>
-<td width="50%" valign="top">
-
-### 📬 Cómo participar
-
-Si encuentras algo que pueda mejorarse, puedes abrir un **Issue** o un **Pull Request** en el repositorio correspondiente.
-
-Para proyectos concretos, consulta primero su documentación y las instrucciones de contribución disponibles.
-
-</td>
-</tr>
-</table>
+La colaboración funciona mejor cuando el problema está bien definido y la propuesta es concreta.
 
 ---
 
@@ -303,11 +206,9 @@ Para proyectos concretos, consulta primero su documentación y las instrucciones
 
 <div align="center">
 
-| Canal | Enlace |
-|---|---|
-| 🌐 **Web** | [mruriosxd.github.io](https://mruriosxd.github.io) |
-| 📧 **Email** | [mruriosxd@gmail.com](mailto:mruriosxd@gmail.com) |
-| 💻 **GitHub** | [@MrUriosXD](https://github.com/MrUriosXD) |
+**Web** · [mruriosxd.github.io](https://mruriosxd.github.io)  
+**Email** · [mruriosxd@gmail.com](mailto:mruriosxd@gmail.com)  
+**GitHub** · [@MrUriosXD](https://github.com/MrUriosXD)
 
 </div>
 
@@ -315,12 +216,10 @@ Para proyectos concretos, consulta primero su documentación y las instrucciones
 
 <div align="center">
 
-### 🚀 Construyendo · Aprendiendo · Compartiendo
+### ⚡ Construir · Mejorar · Compartir
 
-*Proyectos propios, código abierto y desarrollo continuo.*
+*Código propio, proyectos reales y evolución continua.*
 
-<br>
-
-⭐ **Si alguno de mis proyectos te resulta útil, considera darle una estrella.**
+⭐ Si encuentras útil alguno de mis proyectos, puedes apoyarlo con una estrella.
 
 </div>
