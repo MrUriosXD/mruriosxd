@@ -34,48 +34,42 @@ Mi enfoque combina tres cosas: **construir**, **mejorar sistemas existentes** y 
 
 # 🚀 Proyectos seleccionados
 
-<p align="center">
-  <strong>Una selección de proyectos que representan mi trabajo técnico y la dirección de desarrollo que estoy construyendo.</strong>
-</p>
-
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🧩 ProPortal-MyBB
+## 🧩 ProPortal-MyBB
+
 **Portal modular para MyBB**
 
-Evolución y modernización de ProPortal para el ecosistema actual de **MyBB 1.8.x**.
+Una evolución de ProPortal adaptada al ecosistema moderno de **MyBB 1.8.x**, con especial atención a la administración y configuración del sistema.
 
-<div>
-<strong>▸ Componentes</strong><br>
-<sub>Portal · Bloques · Permisos · Instalador · Administración</sub>
-</div>
+**Destaca por**
 
-<br>
+`Bloques` · `Permisos` · `Instalador` · `Configuración` · `Administración`
 
-`PHP` `MySQL` `MyBB`
+**Stack**  
+`PHP` `MySQL` `MyBB` `HTML` `CSS`
 
-<p><a href="https://github.com/MrUriosXD/ProPortal-MyBB"><strong>Ver proyecto →</strong></a></p>
+<a href="https://github.com/MrUriosXD/ProPortal-MyBB"><strong>Explorar repositorio →</strong></a>
 
 </td>
 <td width="50%" valign="top">
 
-### 🏢 Enterprise Development Studio
-**Entorno de desarrollo empresarial**
+## 🏢 Enterprise Development Studio
 
-Proyecto orientado a reunir y presentar soluciones y herramientas dentro de una experiencia web estructurada.
+**Entorno web para desarrollo empresarial**
 
-<div>
-<strong>▸ Conceptos</strong><br>
-<sub>Interfaz · Organización · Herramientas · Modularidad</sub>
-</div>
+Proyecto centrado en presentar y organizar herramientas y soluciones de desarrollo dentro de una experiencia web estructurada.
 
-<br>
+**Enfoque**
 
+`Interfaz` · `Organización` · `Herramientas` · `Modularidad`
+
+**Stack**  
 `HTML` `CSS` `JavaScript`
 
-<p><a href="https://github.com/MrUriosXD/Enterprise-Development-Studio"><strong>Ver proyecto →</strong></a></p>
+<a href="https://github.com/MrUriosXD/Enterprise-Development-Studio"><strong>Explorar repositorio →</strong></a>
 
 </td>
 </tr>
@@ -85,40 +79,30 @@ Proyecto orientado a reunir y presentar soluciones y herramientas dentro de una 
 <tr>
 <td width="50%" valign="top">
 
-### 🌐 MyBB Language Translator
-**Gestión de idiomas para MyBB**
+## 🌐 MyBB Language Translator
 
-Herramienta para simplificar el trabajo con archivos de idioma y procesos de traducción dentro de MyBB.
+**Gestión de traducciones para MyBB**
 
-<div>
-<strong>▸ Orientado a</strong><br>
-<sub>Traducción · Gestión · Recursos de idioma</sub>
-</div>
+Herramienta creada para trabajar de forma más cómoda con los recursos de idioma de MyBB y simplificar tareas habituales de traducción.
 
-<br>
-
+**Stack**  
 `PHP` `MyBB` `HTML` `CSS`
 
-<p><a href="https://github.com/MrUriosXD/MyBB-Language-Translator"><strong>Ver proyecto →</strong></a></p>
+<a href="https://github.com/MrUriosXD/MyBB-Language-Translator"><strong>Explorar repositorio →</strong></a>
 
 </td>
 <td width="50%" valign="top">
 
-### 🌐 WP Translator Suite
+## 🌐 WP Translator Suite
+
 **Herramientas de traducción para WordPress**
 
-Suite orientada a facilitar la gestión y traducción de recursos relacionados con WordPress.
+Proyecto enfocado en facilitar la gestión y traducción de recursos relacionados con WordPress mediante herramientas web.
 
-<div>
-<strong>▸ Orientado a</strong><br>
-<sub>Traducción · Gestión · Herramientas web</sub>
-</div>
-
-<br>
-
+**Stack**  
 `PHP` `HTML` `CSS` `JavaScript`
 
-<p><a href="https://github.com/MrUriosXD/WP-Translator-Suite"><strong>Ver proyecto →</strong></a></p>
+<a href="https://github.com/MrUriosXD/WP-Translator-Suite"><strong>Explorar repositorio →</strong></a>
 
 </td>
 </tr>
@@ -126,7 +110,7 @@ Suite orientada a facilitar la gestión y traducción de recursos relacionados c
 
 <div align="center">
 
-**[Explorar todos los repositorios →](https://github.com/MrUriosXD?tab=repositories)**
+<a href="https://github.com/MrUriosXD?tab=repositories"><strong>Ver todos los repositorios →</strong></a>
 
 </div>
 
@@ -194,12 +178,13 @@ Experiencia con proyectos web y Android/Java.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MrUriosXD&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" height="170" alt="GitHub Stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrUriosXD&layout=compact&theme=github_dark&hide_border=true" height="170" alt="Top Languages">
+<a href="https://github.com/MrUriosXD">
+<img src="https://github-readme-stats.vercel.app/api?username=MrUriosXD&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&cache_seconds=1800" height="170" alt="GitHub Stats">
+</a>
 
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MrUriosXD&theme=github-dark-blue&hide_border=true" alt="GitHub Streak">
+<a href="https://github.com/MrUriosXD">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=MrUriosXD&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800" height="170" alt="Top Languages">
+</a>
 
 </div>
 
